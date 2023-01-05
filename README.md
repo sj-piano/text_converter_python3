@@ -1,7 +1,7 @@
 # Description
 
 
-This is a tool for converting text to and from Edgecase Markup Language (EML).
+This is a tool for converting text from UTF-8 to Edgecase Markup Language (EML).
 
 
 
